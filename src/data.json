@@ -1,0 +1,9 @@
+{
+	"tasks": {
+		"task_text": "aboba",
+		"task_conditions": "Choose the right answer",
+		"task_image": "./assets/images/task_img.png",
+		"correct_answer": "aboba",
+		"answer_options": ["aboba", "af", "as"]
+	}
+}
